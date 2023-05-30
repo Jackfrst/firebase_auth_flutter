@@ -26,3 +26,12 @@ Flutter provides excellent support for integrating Firebase Authentication into 
     <td><img src="https://github.com/Jackfrst/firebase_auth_flutter/assets/60434580/6e906c05-ebb5-44c8-ad1a-7c58123f4761" width="350"></td>
   </tr>
 </table>
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
