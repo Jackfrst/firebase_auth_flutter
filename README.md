@@ -3,7 +3,7 @@
  
 Flutter provides excellent support for integrating Firebase Authentication into your mobile applications. Firebase Authentication allows you to easily add user authentication and authorization features to your Flutter app, such as email/password authentication, social media login, and more.
 
-# APK 
+# Download the APK through github release 
 <a href ="https://github.com/Jackfrst/firebase_auth_flutter/releases/download/v1.0/Firebase.Authentication.Using.Flutter.apk"> Flutter Authentication With FireBase</a>
 
 # Visualization
