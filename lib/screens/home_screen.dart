@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_auth_flutter/screens/singin_screen.dart';
-import 'package:flutter/material.dart';
 
+import 'package:flutter/material.dart';
 import '../utils/color_utils.dart';
 
 class HomeScreen extends StatefulWidget {
